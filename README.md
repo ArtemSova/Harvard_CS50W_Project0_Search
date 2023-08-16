@@ -1,5 +1,5 @@
 # CS50W-Project0-Search
- First assignment of CS50 Web Programming.
+ First assignment of CS50 Web Programming with Python and JavaScript.
  ___
 
 ## Project objective.
